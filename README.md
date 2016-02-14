@@ -10,4 +10,4 @@ python get_details_gui.py
 ''
 in Terminal
 
-This python script is a gui application that provides the details of IIT Madras students on submitting their enrollment numbers.
+This python script is a GUI application that provides the details of IIT Madras students on submitting their enrollment numbers.
